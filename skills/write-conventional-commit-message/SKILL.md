@@ -14,7 +14,7 @@ specification.
 - Describe what changed and why. If the diff is ambiguous or incomplete, describe only the visible
   changes (what).
 - Prefer header-only if sufficient. Include body for additional context.
-- Hard wrap at 72 characters, apply to header and body.
+- Limit header to 72 chars (prevents GitHub truncation); hard wrap body at 72 chars (readability).
 - Brief and concise.
 - Omit implementation details.
 - Use full terminology (e.g., `authentication`, not `auth`).

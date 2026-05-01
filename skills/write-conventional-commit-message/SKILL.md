@@ -1,5 +1,6 @@
 ---
 name: write-conventional-commit-message
+description: Write commit messsage following Conventional Commits specification from staged changes.
 ---
 
 ## Objective

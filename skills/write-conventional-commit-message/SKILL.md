@@ -2,8 +2,6 @@
 name: write-conventional-commit-message
 ---
 
-# Write Conventional Commit Message
-
 ## Objective
 
 Analyze code changes and produce a commit message following the **Conventional Commits v1.0.0**

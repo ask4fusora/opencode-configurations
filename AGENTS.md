@@ -1,5 +1,3 @@
-# System Instructions
-
 ## Communication
 
 ### Request Routing

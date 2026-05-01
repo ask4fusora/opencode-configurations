@@ -21,7 +21,7 @@ specification.
 
 ## Output Format
 
-Use this template:
+Use this template (output raw text only; do not wrap in markdown code blocks):
 
 ```
 <type>[optional scope]: <description>
